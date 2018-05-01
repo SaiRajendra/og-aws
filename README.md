@@ -1,5 +1,8 @@
 ﻿![An Open Guide](figures/signpost-horiz1-1600.jpg)
 
+
+#this is a test change 
+
 The Open Guide to Amazon Web Services
 =====================================
 
